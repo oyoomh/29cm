@@ -1,0 +1,63 @@
+{
+    "introList":[
+        {
+            "introThumb":"./assets/images/feed01.png",
+            "introTitle":"주목해야 할 신규 입점 브랜드",
+            "introDesc":"1980년대 레트로 패션을 현대적으로 재해석한 뉴트로 컨템포러리 캐주얼 브랜드 샤드라마를 소개할게요. 브랜드 즐겨찾기하고 주목해 보세요.",
+            "prdList":[
+                {
+                    "thumb":"./assets/images/feed01-prd01.jpg",
+                    "brand":"프레쉬라벨 ",
+                    "title":"Trkiye coy denim (Light blue)",
+                    "price":{
+                        "oriprice":300000,
+                        "saleprecent":30,
+                        "saleprice":118000
+                    },
+                    "fav":300
+                },
+                {
+                    "thumb":"./assets/images/feed01-prd01.jpg",
+                    "brand":"프레쉬라벨",
+                    "title":"Trkiye coasdasd blue)",
+                    "price":{
+                        "oriprice":232323,
+                        "saleprecent":null,
+                        "saleprice":232323
+                    },
+                    "fav":300
+                }
+            ]
+        },
+        {
+            "introThumb":"./assets/images/feed02.jpg",
+            "introTitle":"기분 좋은 주말 특가 소식",
+            "introDesc":"쿨한 클래식의 정석, 던스트의 인기있는 제품을 주말 특가로 준비했어요.",
+            "prdList":[
+                {
+                    "thumb":"./assets/images/feed02-prd01.jpg",
+                    "brand":"던스트 ",
+                    "title":"AUMU Signature Full Skirt (Black)",
+                    "price":{
+                        "oriprice":300000,
+                        "saleprecent":15,
+                        "saleprice":161595
+                    },
+                    "fav":300
+                },
+                {
+                    "thumb":"./assets/images/feed02-prd02.jpg",
+                    "brand":"던스트 ",
+                    "title":"MIU Check Crop Jacket (Black)",
+                    "price":{
+                        "oriprice":300000,
+                        "saleprecent":30,
+                        "saleprice":118000
+                    },
+                    "fav":300
+                }
+            ]
+        }
+      
+    ]
+}

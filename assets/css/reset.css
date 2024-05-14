@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+  color: inherit;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+:root {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  cursor: default;
+  line-height: 1.5;
+  overflow-wrap: break-word;
+  -moz-tab-size: 4;
+  tab-size: 4;
+  --swiper-theme-color: #007aff;
+  --swiper-navigation-size: 44px;
+  --header-height:50px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+button {
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0
+}
+fieldset{
+  border: 0;
+}
+ul{
+  list-style: none;
+}
+body {
+  font-family: 'campton', 'Apple SD Gothic Neo', NanumBarunGothic,
+    '나눔바른고딕', Malgun Gothic, '맑은 고딕', dotum, sans-serif;
+  font-weight: 400;
+  word-break: keep-all;
+  background: #e6e6e6;
+}

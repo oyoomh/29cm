@@ -1,0 +1,19 @@
+{
+    "list":[
+        {
+            "thumb":"./assets/images/visual01.jpg",
+            "title":"사랑스러운 셔링 블라우스",
+            "desc":"시엔느5+5%"
+        },
+        {
+            "thumb":"./assets/images/visual02.jpg",
+            "title":"72시간 동안의 기회",
+            "desc":"에트몽~55%"
+        },
+        {
+            "thumb":"./assets/images/visual03.jpg",
+            "title":"다음 계절을 준비해요",
+            "desc":"위메농&앤니즈&루에브르"
+        }
+    ]
+}

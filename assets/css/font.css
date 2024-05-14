@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'campton';
+  src: url(../fonts/cbecc58e-b34b-42f2-84c1-b824c51a14b8.woff2) format('woff2');
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'campton';
+  src: url(../fonts/5ddb0ca7-9109-4f56-aba0-62da95da7f0e.woff2) format('woff2');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'campton';
+  src: url(../fonts/3e12b6e3-e175-4004-8d07-a575118660a9.woff2) format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'campton';
+  src: url(../fonts/67b0b0ae-fe9f-4c2a-8673-6a697b81e659.woff2) format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'campton';
+  src: url(../fonts/2e9a3801-e1f5-4731-9d9b-86ba7ca425b9.woff2) format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'campton';
+  src: url(../fonts/58644108-1106-4300-a81f-1a368c608e27.woff2) format('woff2');
+  font-weight: 700;
+}
